@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="즐겨찾기추가"
+        android:id="@+id/add"/>
+    <item android:title="즐겨찾기목록"
+        android:id="@+id/list"/>
+
+</menu>
